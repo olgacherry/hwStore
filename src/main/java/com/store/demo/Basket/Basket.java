@@ -1,4 +1,4 @@
-package com.store.demo.service;
+package com.store.demo.Basket;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.context.annotation.SessionScope;
